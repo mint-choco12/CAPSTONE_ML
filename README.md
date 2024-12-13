@@ -1,5 +1,5 @@
-# CAPSTONE_ML
-## SKINSENSE
+# SKINSENSE
+## MACHINE LEARNING
 
 ### Introduction
 This project develops an advanced multi-label classification model for product recommendations, leveraging machine learning techniques to predict products, features, and materials simultaneously. The system aims to provide personalized and precise product suggestions by analyzing complex input features.
